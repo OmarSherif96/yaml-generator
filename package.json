@@ -1,0 +1,20 @@
+{
+  "name": "yaml-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "userInput.js",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "js-yaml": "^3.13.1",
+    "json-to-pretty-yaml": "^1.2.2",
+    "json2yaml": "^1.1.0",
+    "node-yaml": "^3.2.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
