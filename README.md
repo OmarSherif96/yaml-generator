@@ -2,4 +2,5 @@
 npm install<br/>
 node dockerTemplateGenerator.js 
 
-# Output a yaml file with static values
+# Expected Output<br/>
+a yaml file with static values that can be changed from the dockerTemplateGenerator.js file
